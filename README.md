@@ -27,8 +27,6 @@ CRM-System/
 │ ├── viewCustomers.jsp
 │ ├── login.jsp
 │ └── ...
-├── sql/ # SQL schema and insert scripts
-│ └── crm_schema.sql
 ├── web.xml # Web deployment descriptor
 
 ---
