@@ -1,0 +1,11 @@
+G:\CRM-Customer-Module\src\com.crm.dao\CustomerDAO.java
+G:\CRM-Customer-Module\src\com.crm.dao\UserDAO.java
+G:\CRM-Customer-Module\src\com.crm.model\Customer.java
+G:\CRM-Customer-Module\src\com.crm.servlet\AddCustomerServlet.java
+G:\CRM-Customer-Module\src\com.crm.servlet\DeleteCustomerServlet.java
+G:\CRM-Customer-Module\src\com.crm.servlet\LoginServlet.java
+G:\CRM-Customer-Module\src\com.crm.servlet\UpdateCustomerServlet.java
+G:\CRM-Customer-Module\src\com.crm.servlet\ViewCustomersServlet.java
+G:\CRM-Customer-Module\src\com.crm.test\CustomerModuleTest.java
+G:\CRM-Customer-Module\src\com.crm.test\DBTest.java
+G:\CRM-Customer-Module\src\com.crm.util\DBUtil.java
